@@ -1,0 +1,39 @@
+root@586e4153370f:/alx-zero_day/0x03-git# touch up_to_date                                                                            
+
+root@586e4153370f:/alx-zero_day/0x03-git# ls                                                                                          
+
+bash  c  README.md  up_to_date                                                                                                        
+
+root@586e4153370f:/alx-zero_day/0x03-git# vi up_to_date                                                                               
+
+root@586e4153370f:/alx-zero_day/0x03-git# git branch                                                                                  
+
+* master                                                                                                                              
+
+  update_script                                                                                                                       
+
+root@586e4153370f:/alx-zero_day/0x03-git# git pull                                                                                    
+
+Updating 279057d..27abbee                                                                                                             
+
+Fast-forward                                                                                                                          
+
+ README.md | 1 +                                                                                                                      
+
+ 1 file changed, 1 insertion(+)                                                                                                       
+
+root@586e4153370f:/alx-zero_day/0x03-git# ls                                                                                          
+
+bash  c  README.md  up_to_date                                                                                                        
+
+root@586e4153370f:/alx-zero_day/0x03-git# less README.md                                                                              
+
+root@586e4153370f:/alx-zero_day/0x03-git# cd ..                                                                                       
+
+root@586e4153370f:/alx-zero_day# ls                                                                                                   
+
+0x03-git  README.md                                                                                                                   
+
+root@586e4153370f:/alx-zero_day# less README.md                                                                                       
+
+
